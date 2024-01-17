@@ -43,6 +43,13 @@ var jsonData = {
             "fun1": "点播",
             "fun2": "播放"
         },
+	 {
+            "title": 7,
+            "desc": "Cyclone-RPA-developer",
+            "img": "images/cert/dev-v5.png",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
 	
 	 {
             "title": 8,
